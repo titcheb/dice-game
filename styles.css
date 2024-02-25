@@ -55,6 +55,7 @@ img {
   font-weight: 600;
   background-color: yellowgreen;
   border: none;
+  border-radius:20px;
 }
 .btn:hover{
   background-color: yellow;
